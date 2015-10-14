@@ -122,6 +122,7 @@
 
 #### K individuals
 * Koichi Hamada Data mining http://d.hatena.ne.jp/hamadakoichi/
+* Kosuke Kawaguchi Jenkins http://d.hatena.ne.jp/kkawa/
 
 #### L individuals
 
