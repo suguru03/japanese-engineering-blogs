@@ -142,6 +142,7 @@
 * Shuichi Tsusumi iOS http://d.hatena.ne.jp/shu223/
 
 #### T individuals
+* Takayuki Fukatsu iOS http://fladdict.net/blog/
 
 #### U individuals
 
