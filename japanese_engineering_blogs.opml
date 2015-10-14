@@ -5,6 +5,35 @@
   </head>
   <body>
     <outline text="Japanese Engineering Blogs" title="Japanese Engineering Blogs">
+      <outline type="rss" text="cookpad" title="cookpad" xmlUrl="http://techlife.cookpad.com/feed" htmlUrl="http://techlife.cookpad.com/"/>
+      <outline type="rss" text="Cyberagent principia" title="Cyberagent principia" xmlUrl="http://rssblog.ameba.jp/principia-ca/rss20.xml" htmlUrl="http://ameblo.jp/principia-ca/"/>
+      <outline type="rss" text="Cyberagent 1pixel" title="Cyberagent 1pixel" xmlUrl="http://rssblog.ameba.jp/ca-1pixel/rss20.xml" htmlUrl="http://ameblo.jp/ca-1pixel/"/>
+      <outline type="rss" text="Classmethod" title="Classmethod" xmlUrl="http://dev.classmethod.jp/feed/" htmlUrl="http://dev.classmethod.jp/"/>
+      <outline type="rss" text="DeNA" title="DeNA" xmlUrl="http://engineer.dena.jp/atom.xml" htmlUrl="http://engineer.dena.jp/"/>
+      <outline type="rss" text="dwango" title="dwango" xmlUrl="http://ch.nicovideo.jp/dwango-engineer/blomaga/nico/feed" htmlUrl="http://ch.nicovideo.jp/dwango-engineer/blomaga"/>
+      <outline type="rss" text="GREE" title="GREE" xmlUrl="http://labs.gree.jp/blog/feed/" htmlUrl="http://labs.gree.jp/blog/"/>
+      <outline type="rss" text="Hatena" title="Hatena" xmlUrl="http://developer.hatenastaff.com/feed" htmlUrl="http://developer.hatenastaff.com/"/>
+      <outline type="rss" text="Increments(qiita)" title="Increments(qiita)" xmlUrl="http://blog.qiita.com/rss" htmlUrl="http://blog.qiita.com/"/>
+      <outline type="rss" text="KLab" title="KLab" xmlUrl="http://klabgames.tech.blog.jp.klab.com/index.rdf" htmlUrl="http://klabgames.tech.blog.jp.klab.com/"/>
+      <outline type="rss" text="Kayac" title="Kayac" xmlUrl="http://tech.kayac.com/atom.xml" htmlUrl="http://tech.kayac.com/"/>
+      <outline type="rss" text="LINE" title="LINE" xmlUrl="http://developers.linecorp.com/blog/ja/?feed=rss2" htmlUrl="http://developers.linecorp.com/blog/ja/"/>
+      <outline type="rss" text="Mixi" title="Mixi" xmlUrl="http://alpha.mixi.co.jp/feed" htmlUrl="http://alpha.mixi.co.jp/"/>
+      <outline type="rss" text="Money Forward" title="Money Forward" xmlUrl="https://moneyforward.com/engineers_blog/feed/" htmlUrl="https://moneyforward.com/engineers_blog/"/>
+      <outline type="rss" text="Mercari" title="Mercari" xmlUrl="http://tech.mercari.com/feed" htmlUrl="http://tech.mercari.com/"/>
+      <outline type="rss" text="nanapi" title="nanapi" xmlUrl="http://blog.nanapi.co.jp/tech/feed/" htmlUrl="http://blog.nanapi.co.jp/tech/category/engineering/"/>
+      <outline type="rss" text="Sakura Internet" title="Sakura Internet" xmlUrl="http://knowledge.sakura.ad.jp/feed/" htmlUrl="http://knowledge.sakura.ad.jp/"/>
+      <outline type="rss" text="Septeni" title="Septeni" xmlUrl="http://labs.septeni.co.jp/feed" htmlUrl="http://labs.septeni.co.jp/"/>
+      <outline type="rss" text="Uzabase" title="Uzabase" xmlUrl="http://tech.uzabase.com/feed" htmlUrl="http://tech.uzabase.com/"/>
+      <outline type="rss" text="VOYAGE GROUP" title="VOYAGE GROUP" xmlUrl="http://tech.voyagegroup.com/index.rdf" htmlUrl="http://tech.voyagegroup.com/"/>
+      <outline type="rss" text="Wantedly" title="Wantedly" xmlUrl="http://engineer.wantedly.com/feed.xml" htmlUrl="http://engineer.wantedly.com/"/>
+      <outline type="rss" text="Yahoo! JAPAN" title="Yahoo! JAPAN" xmlUrl="http://techblog.yahoo.co.jp/atom.xml" htmlUrl="http://techblog.yahoo.co.jp/"/>
+      <outline type="rss" text="Ryo Ezoe C++" title="Ryo Ezoe C++" xmlUrl="http://cpplover.blogspot.com/feeds/posts/default" htmlUrl="http://cpplover.blogspot.jp/"/>
+      <outline type="rss" text="Dan Kogai" title="Dan Kogai" xmlUrl="http://blog.livedoor.jp/dankogai/index.rdf" htmlUrl="http://blog.livedoor.jp/dankogai/"/>
+      <outline type="rss" text="Hiroshi Tokumaru PHP" title="Hiroshi Tokumaru PHP" xmlUrl="http://blog.tokumaru.org/feeds/posts/default" htmlUrl="http://blog.tokumaru.org/"/>
+      <outline type="rss" text="Koichi Hamada Data mining" title="Koichi Hamada Data mining" xmlUrl="http://d.hatena.ne.jp/hamadakoichi/rss" htmlUrl="http://d.hatena.ne.jp/hamadakoichi/"/>
+      <outline type="rss" text="Mikiya Okuno MySQL" title="Mikiya Okuno MySQL" xmlUrl="http://parametron.blogspot.com/feeds/posts/default" htmlUrl="http://parametron.blogspot.jp/"/>
+      <outline type="rss" text="Naoya Ito" title="Naoya Ito" xmlUrl="http://d.hatena.ne.jp/naoya/rss" htmlUrl="http://d.hatena.ne.jp/naoya/"/>
+      <outline type="rss" text="Shuichi Tsusumi iOS" title="Shuichi Tsusumi iOS" xmlUrl="http://d.hatena.ne.jp/shu223/rss" htmlUrl="http://d.hatena.ne.jp/shu223/"/>
     </outline>
   </body>
 </opml>

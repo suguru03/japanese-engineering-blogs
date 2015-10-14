@@ -26,28 +26,44 @@
 #### B companies
 
 #### C companies
+* cookpad http://techlife.cookpad.com/
+* Cyberagent principia http://ameblo.jp/principia-ca/
+* Cyberagent 1pixel http://ameblo.jp/ca-1pixel/
+* Classmethod http://dev.classmethod.jp/
 
 #### D companies
+* DeNA http://engineer.dena.jp/
+* dwango http://ch.nicovideo.jp/dwango-engineer/blomaga
 
 #### E companies
 
 #### F companies
 
 #### G companies
+* GREE http://labs.gree.jp/blog/
 
 #### H companies
+* Hatena http://developer.hatenastaff.com/
 
 #### I companies
+* Increments(qiita) http://blog.qiita.com/
 
 #### J companies
 
 #### K companies
+* KLab http://klabgames.tech.blog.jp.klab.com/
+* Kayac http://tech.kayac.com/
 
 #### L companies
+* LINE http://developers.linecorp.com/blog/ja/
 
 #### M companies
+* Mixi http://alpha.mixi.co.jp/
+* Money Forward https://moneyforward.com/engineers_blog/
+* Mercari http://tech.mercari.com/
 
 #### N companies
+* nanapi http://blog.nanapi.co.jp/tech/category/engineering/
 
 #### O companies
 
@@ -58,18 +74,24 @@
 #### R companies
 
 #### S companies
+* Sakura Internet http://knowledge.sakura.ad.jp/
+* Septeni http://labs.septeni.co.jp/
 
 #### T companies
 
 #### U companies
+* Uzabase http://tech.uzabase.com/
 
 #### V companies
+* VOYAGE GROUP http://tech.voyagegroup.com/
 
 #### W companies
+* Wantedly http://engineer.wantedly.com/
 
 #### X companies
 
 #### Y companies
+* Yahoo! JAPAN http://techblog.yahoo.co.jp/
 
 #### Z companies
 
@@ -80,8 +102,10 @@
 #### B individuals
 
 #### C individuals
+* Ryo Ezoe C++ http://cpplover.blogspot.jp/
 
 #### D individuals
+* Dan Kogai http://blog.livedoor.jp/dankogai/
 
 #### E individuals
 
@@ -90,18 +114,22 @@
 #### G individuals
 
 #### H individuals
+* Hiroshi Tokumaru PHP http://blog.tokumaru.org/
 
 #### I individuals
 
 #### J individuals
 
 #### K individuals
+* Koichi Hamada Data mining http://d.hatena.ne.jp/hamadakoichi/
 
 #### L individuals
 
 #### M individuals
+* Mikiya Okuno MySQL http://parametron.blogspot.jp/
 
 #### N individuals
+* Naoya Ito http://d.hatena.ne.jp/naoya/
 
 #### O individuals
 
@@ -110,6 +138,7 @@
 #### R individuals
 
 #### S individuals
+* Shuichi Tsusumi iOS http://d.hatena.ne.jp/shu223/
 
 #### T individuals
 
