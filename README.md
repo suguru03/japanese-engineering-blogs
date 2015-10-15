@@ -72,6 +72,7 @@
 #### Q companies
 
 #### R companies
+* RECRUIT POSTD http://postd.cc/
 
 #### S companies
 * Sakura Internet http://knowledge.sakura.ad.jp/

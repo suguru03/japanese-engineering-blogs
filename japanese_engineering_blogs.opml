@@ -21,6 +21,7 @@
       <outline type="rss" text="Money Forward" title="Money Forward" xmlUrl="https://moneyforward.com/engineers_blog/feed/" htmlUrl="https://moneyforward.com/engineers_blog/"/>
       <outline type="rss" text="Mercari" title="Mercari" xmlUrl="http://tech.mercari.com/feed" htmlUrl="http://tech.mercari.com/"/>
       <outline type="rss" text="nanapi" title="nanapi" xmlUrl="http://blog.nanapi.co.jp/tech/feed/" htmlUrl="http://blog.nanapi.co.jp/tech/category/engineering/"/>
+      <outline type="rss" text="RECRUIT POSTD" title="RECRUIT POSTD" xmlUrl="http://postd.cc/feed/" htmlUrl="http://postd.cc/"/>
       <outline type="rss" text="Sakura Internet" title="Sakura Internet" xmlUrl="http://knowledge.sakura.ad.jp/feed/" htmlUrl="http://knowledge.sakura.ad.jp/"/>
       <outline type="rss" text="Septeni" title="Septeni" xmlUrl="http://labs.septeni.co.jp/feed" htmlUrl="http://labs.septeni.co.jp/"/>
       <outline type="rss" text="Uzabase" title="Uzabase" xmlUrl="http://tech.uzabase.com/feed" htmlUrl="http://tech.uzabase.com/"/>
