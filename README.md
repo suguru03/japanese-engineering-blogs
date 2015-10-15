@@ -127,7 +127,7 @@
 #### L individuals
 
 #### M individuals
-* Mikiya Okuno MySQL http://parametron.blogspot.jp/
+* Mikiya Okuno MySQL http://nippondanji.blogspot.jp/
 
 #### N individuals
 * Naoya Ito http://d.hatena.ne.jp/naoya/
