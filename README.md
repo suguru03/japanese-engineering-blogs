@@ -157,8 +157,7 @@
 ----
 
 # RSS feeds
-
-You can find an opml file to import rss feeds here: [engineering_blogs.opml](./engineering_blogs.opml)
+You can find an opml file to import rss feeds here: [japanese_engineering_blogs.opml](./japanese_engineering_blogs.opml)
 
 # Contributing
 
