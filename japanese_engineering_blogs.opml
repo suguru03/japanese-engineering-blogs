@@ -37,6 +37,7 @@
       <outline type="rss" text="Naoya Ito" title="Naoya Ito" xmlUrl="http://d.hatena.ne.jp/naoya/rss" htmlUrl="http://d.hatena.ne.jp/naoya/"/>
       <outline type="rss" text="Shuichi Tsusumi iOS" title="Shuichi Tsusumi iOS" xmlUrl="http://d.hatena.ne.jp/shu223/rss" htmlUrl="http://d.hatena.ne.jp/shu223/"/>
       <outline type="rss" text="Takayuki Fukatsu iOS" title="Takayuki Fukatsu iOS" xmlUrl="http://fladdict.net/blog/feed" htmlUrl="http://fladdict.net/blog/"/>
+      <outline type="rss" text="Yosuke Furukawa Node" title="Yosuke Furukawa Node" xmlUrl="http://yosuke-furukawa.hatenablog.com/rss" htmlUrl="http://yosuke-furukawa.hatenablog.com/"/>
     </outline>
   </body>
 </opml>
